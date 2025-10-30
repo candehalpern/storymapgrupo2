@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://candehalpern.github.io/storymapgrupo2/#1
+- Leaflet Map https://candehalpern.github.io/storymapgrupo2/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-iq-JxMKlppAlgoKE4Ob45HOjWBHn7H9ik4fxAcvNck/edit?gid=0#gid=0
 
 ## Create Your Own
